@@ -1,0 +1,18 @@
+*{
+  margin: 1em;
+font-size: 1.3em;
+}
+
+
+header, h1
+{ color: pink;
+}
+
+li {
+color: blue;
+list-style-type: none;
+}
+
+.student {
+  color: purple;
+}
